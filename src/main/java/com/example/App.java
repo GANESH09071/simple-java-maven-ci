@@ -7,7 +7,7 @@ package com.example;
 */
 public class App {
 public static void main(String[] args) {
-System.out.println("Hello from simple-java-maven-ci!");
+System.out.println("Hello from simple-java-maven-ci-cd!");
 }
 
 
